@@ -28,7 +28,7 @@ A simple usage
         },  
         "properties" : {
             "key": {
-                "type": "integer"
+                "type": "integer",
                 "index": True
             },
             "feature": {
